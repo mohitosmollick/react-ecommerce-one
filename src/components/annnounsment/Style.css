@@ -1,0 +1,17 @@
+/* mystyle = {
+    width: "30%",
+    height: "340px",
+  }
+  const mystyle1 = {
+    width: "68%",
+    height: "340px",
+  } */
+
+.mystyle1 {
+  width: 30%;
+  height: 340px;
+}
+.mystyle2 {
+  width: 68%;
+  height: 340px;
+}

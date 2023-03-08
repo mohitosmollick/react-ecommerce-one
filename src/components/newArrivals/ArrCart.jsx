@@ -10,7 +10,7 @@ const ArrCart = () => {
           return (
             <div className="box" key={index}>
               <div className="img">
-                <img src={val.cover} alt="" />
+                <img src={val.cover} alt="images" />
               </div>
               <h4>{val.name}</h4>
               <span>{val.price}</span>
